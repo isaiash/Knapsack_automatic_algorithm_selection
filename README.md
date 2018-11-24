@@ -1,0 +1,2 @@
+# Knapsack_automatic_algorithm_selection
+Automatic algorithm selection for knapsack problem
